@@ -1,5 +1,5 @@
 - 👋 opa, sou @LuisMario10
-- 👀 Estou interresado em Evoluir me Tornar Dev e dar vida a ideias
+- 👀 Estou interresado em Evoluir me Tornar Dev e dar vida a ideias/projetos
 - 🌱 Atualmente estou estudando HTML/CSS e JavaScript
 - 📫  Como chegar até mim: instagram @luis_xr10
 
