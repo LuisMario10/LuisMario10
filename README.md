@@ -1,4 +1,4 @@
-# Olá, meu nome é Luis Mario
+# Opa eae, meu nome é Luis Mario.
 ***
 - Foco atual em Tecnologias BackEnd
 - Atualmente estou estudando (Estrutura de Dados e Algoritimos, Orientação a Objetos e Java)
