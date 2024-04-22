@@ -3,6 +3,6 @@
 - Foco atual em Tecnologias BackEnd
 - Atualmente estou estudando (Orientação a Objetos, Java, SQL)
 - Como chegar até mim: instagram @euluismarioo
-- Tecnologias e Habilidades até este momento: (HTML5, CSS3, JavaScript, Estrutura de Dad)
+- Tecnologias e Habilidades até este momento: (HTML5, CSS3, JavaScript, Estrutura de Dados)
 ***
 Em breve Projetos e Portifolio!
