@@ -2,7 +2,7 @@
 ***
 - Foco atual em Tecnologias e conhecimento sobre area de BackEnd developer
 - Atualmente estou estudando (Orientação a Objetos, Java, SQL)
-- Como chegar até mim: instagram @euluismarioo
+- Meu LikedIn: https://www.linkedin.com/in/luis-mario-dos-santos-8125b0305/
 - Tecnologias e Habilidades até este momento: (HTML5, CSS3, JavaScript, Estrutura de Dados)
 ***
 Em breve Projetos e Portifolio!
