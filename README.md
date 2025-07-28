@@ -4,7 +4,7 @@
 ***
 - No momento estudando com foco em ser Desenvolvedor Full Stack
 - Minha Stack Principal: JavaScript/Typescript
-- Atualmente estou estudando (Testes Unitarios, Puppeteer, ExpressJS)
+- Atualmente estou estudando (Puppeteer, ExpressJS)
 - Meu LikedIn: https://www.linkedin.com/in/luis-mario-dos-santos-8125b0305/
 - 
  ## Tecnologias e Habilidades até este momento:
@@ -18,6 +18,7 @@
 - ExpressJS
 - SQL
 - Pyhton
+- Puppeteer JS
 ***
 ## Meus Principais Projetos
 + Reforg Games - MarketPlace de Video Games (em desenvolvimento)
