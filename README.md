@@ -27,4 +27,4 @@
 + LibLib - Gerenciador de Bibliotecas (projeto academico)
 + Projeto de Irrigação Inteligente - Verifica rotineiramente umidade de plantações (projeto academico)
 + Stoq-IN-Casa - Cria lista de compras verificando o melhor preço para cada item (em desenvolvimento)
-
++ TaskNext - Gerenciador de "tasks" pessoais (em desenvolvimento)
