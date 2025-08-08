@@ -4,7 +4,7 @@
 ***
 - No momento estudando com foco em ser Desenvolvedor Full Stack
 - Minha Stack Principal: JavaScript/Typescript
-- Atualmente estou estudando (Puppeteer, ExpressJS)
+- Atualmente estou estudando (Docker, Axios, ExpressJS)
 - Meu LikedIn: https://www.linkedin.com/in/luis-mario-dos-santos-8125b0305/
 - 
  ## Tecnologias e Habilidades até este momento:
@@ -18,6 +18,7 @@
 - Axios
 - ExpressJS
 - SQL
+- Docker
 - Pyhton
 - Puppeteer JS
 ***
