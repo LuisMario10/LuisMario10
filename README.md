@@ -15,6 +15,7 @@
 - Orientação a Objetos
 - GIT/GITHUB
 - TypeScript
+- Axios
 - ExpressJS
 - SQL
 - Pyhton
