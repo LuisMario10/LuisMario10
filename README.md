@@ -1,5 +1,5 @@
 # Olá, meu nome é Luis Mario, sou Estudante de Tecnologia.
-## Cursando Analise e Desenvolviemnto de Sistemas (3* Semestre)
+## Cursando Analise e Desenvolviemnto de Sistemas (4* Semestre)
 
 ***
 - No momento estudando com foco em ser Desenvolvedor Full Stack
