@@ -1,32 +1,74 @@
-# Olá, meu nome é Luis Mario, sou Estudante de Tecnologia.
-## Cursando Analise e Desenvolviemnto de Sistemas (4* Semestre)
+# 👋 Olá, meu nome é Luis Mario!
 
-***
-- No momento estudando com foco em ser Desenvolvedor Full Stack
-- Minha Stack Principal: TypeScript, Express JS, PostgreSQL, Docker
-- Atualmente estou estudando (Docker, Express JS)
-- Meu LikedIn: https://www.linkedin.com/in/luis-mario-dos-santos-8125b0305/
-  
- ## Tecnologias e Habilidades até este momento:
-- HTML5
-- CSS3
-- JavaScript
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (4º semestre)  
+🚀 Em formação para me tornar um **Desenvolvedor Full Stack**
+
+---
+
+## 💻 Atualmente estudando:
+- 📦 Docker
+- ⚙️ Express.js
+
+## 🛠️ Stack Principal:
 - TypeScript
-- Estrutura de Dados
-- Orientação a Objetos
-- GIT/GITHUB
-- Axios
-- ExpressJS
-- SQL
+- Express.js
+- PostgreSQL
 - Docker
-- Autenticação (JWT)
-- Puppeteer JS
-- Python
-- C/C++
-***
-## Meus Principais Projetos
-+ Reforg Games - MarketPlace de Video Games (em desenvolvimento)
-+ LibLib - Gerenciador de Bibliotecas (projeto academico da disciplina de Aplicações em Python do segundo semestre)
-+ Projeto de Irrigação Inteligente - Verifica rotineiramente umidade de plantações (projeto academico)
-+ Stoq-IN-Casa - Cria lista de compras verificando o melhor preço para cada item (em desenvolvimento)
-+ TaskNext - Gerenciador de "tasks" pessoais (em desenvolvimento)
+
+---
+
+## 📚 Tecnologias e Habilidades
+- ✅ HTML5, CSS3, JavaScript, TypeScript
+- ✅ Git & GitHub
+- ✅ Express.js & Axios
+- ✅ SQL & PostgreSQL
+- ✅ Docker
+- ✅ Estrutura de Dados & Orientação a Objetos
+- ✅ Autenticação com JWT
+- ✅ Puppeteer.js
+- ✅ Python
+- ✅ C/C++
+
+---
+
+## 🚧 Projetos em Destaque
+
+### 🎮 **Reforg Games**
+> MarketPlace de Video Games  
+🔧 *Status: Em desenvolvimento*
+
+---
+
+### 📚 **LibLib**
+> Gerenciador de Bibliotecas  
+🎓 Projeto acadêmico — Aplicações em Python (2º semestre)
+
+---
+
+### 🌿 **Projeto de Irrigação Inteligente**
+> Sistema de monitoramento de umidade para plantações  
+🎓 Projeto acadêmico interdisciplinar
+
+---
+
+### 🛒 **Stoq-IN-Casa**
+> Aplicativo para criar listas de compras otimizando pelo melhor preço  
+🔧 *Status: Em desenvolvimento*
+
+---
+
+### ✅ **TaskNext**
+> Gerenciador de tarefas pessoais  
+🔧 *Status: Em desenvolvimento*
+
+---
+
+## 🌐 Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/luis-mario-dos-santos-8125b0305/)
+
+---
+
+> "O código limpo é aquele que você entende até mesmo na segunda-feira de manhã." – Robert C. Martin  
+🧠 Sempre buscando evoluir, aprender e construir soluções com propósito!
+
