@@ -1,19 +1,23 @@
 # 👋 Olá, meu nome é Luis Mario!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (4º semestre)  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** atualmente no (4º semestre)  
 🚀 Em formação para me tornar um **Desenvolvedor Full Stack**
 
 ---
 
 ## 💻 Atualmente estudando:
-- 📦 Docker
-- ⚙️ Express.js
+-  Docker
+-  Express.js
+-  Validação de Dados no BackEnd com YUP
+  
 
 ## 🛠️ Stack Principal:
 - TypeScript
 - Express.js
 - PostgreSQL
 - Docker
+- React
+- Tailwind
 
 ---
 
@@ -26,6 +30,8 @@
 - ✅ Estrutura de Dados & Orientação a Objetos
 - ✅ Autenticação com JWT
 - ✅ Puppeteer.js
+- ✅ React
+- ✅ Tailwind
 - ✅ Python
 - ✅ C/C++
 
@@ -41,24 +47,24 @@
 
 ### 📚 **LibLib**
 > Gerenciador de Bibliotecas  
-🎓 Projeto acadêmico — Aplicações em Python (2º semestre)
+🎓 Projeto acadêmico — Disciplina de Desenvolvimento Aplicações (2º semestre)
 
 ---
 
 ### 🌿 **Projeto de Irrigação Inteligente**
 > Sistema de monitoramento de umidade para plantações  
-🎓 Projeto acadêmico interdisciplinar
+🎓 Projeto acadêmico - Materia de IoT, Cloud e Industria 4.0 (3º semestre)
 
 ---
 
 ### 🛒 **Stoq-IN-Casa**
-> Aplicativo para criar listas de compras otimizando pelo melhor preço  
+> Aplicativo para criar listas de compras otimizando pelo melhor preço 
 🔧 *Status: Em desenvolvimento*
 
 ---
 
 ### ✅ **TaskNext**
-> Gerenciador de tarefas pessoais  
+> Gerenciador de tarefas pessoais 
 🔧 *Status: Em desenvolvimento*
 
 ---
