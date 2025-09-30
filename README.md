@@ -53,7 +53,7 @@
 
 ### 🌿 **Projeto de Irrigação Inteligente**
 > Sistema de monitoramento de umidade para plantações  
-🎓 Projeto acadêmico - Materia de IoT, Cloud e Industria 4.0 (3º semestre)
+🎓 Projeto acadêmico — Materia de IoT, Cloud e Industria 4.0 (3º semestre)
 
 ---
 
