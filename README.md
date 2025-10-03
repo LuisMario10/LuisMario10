@@ -6,7 +6,7 @@
 ---
 
 ## 💻 Atualmente estudando:
--  Docker
+-  Testes Unitarios com Jest e Supertest
 -  Express.js
 -  Validação de Dados no BackEnd com YUP
   
@@ -22,16 +22,18 @@
 ---
 
 ## 📚 Tecnologias e Habilidades
-- ✅ HTML5, CSS3, JavaScript, TypeScript
+- ✅ HTML5, CSS3, JavaScript ES6
 - ✅ Git & GitHub
-- ✅ Express.js & Axios
+- ✅ Express.js
+- ✅ Tailwind
+- ✅ Axios
 - ✅ SQL & PostgreSQL
+- ✅ Testes Unitarios com Jest e Supertest
 - ✅ Docker
 - ✅ Estrutura de Dados & Orientação a Objetos
 - ✅ Autenticação com JWT
 - ✅ Puppeteer.js
 - ✅ React
-- ✅ Tailwind
 - ✅ Python
 - ✅ C/C++
 
