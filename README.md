@@ -1,17 +1,17 @@
 # 👋 Olá, meu nome é Luis Mario!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** atualmente no (4º semestre)  
-🚀 Em formação para me tornar um **Desenvolvedor Full Stack**
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** atualmente no (4º semestre)  
 
 ---
 
 ## 💻 Atualmente estudando:
 -  Testes Unitarios com Jest e Supertest
 -  Express.js
--  Validação de Dados no BackEnd com YUP
+-  Validação de Dados com ZOD
   
 
 ## 🛠️ Stack Principal:
+- NodeJS
 - TypeScript
 - Express.js
 - PostgreSQL
@@ -23,11 +23,12 @@
 
 ## 📚 Tecnologias e Habilidades
 - ✅ HTML5, CSS3, JavaScript ES6
+- ✅ NodeJS
 - ✅ Git & GitHub
 - ✅ Express.js
 - ✅ Tailwind
 - ✅ Axios
-- ✅ SQL & PostgreSQL
+- ✅ Banco de Dados SQL (PostgreSQL, MySQL e SQLite)
 - ✅ Testes Unitarios com Jest e Supertest
 - ✅ Docker
 - ✅ Estrutura de Dados & Orientação a Objetos
@@ -66,7 +67,7 @@
 ---
 
 ### ✅ **TaskNext**
-> Gerenciador de tarefas pessoais 
+> Gerenciador de tarefas pessoais
 🔧 *Status: Em desenvolvimento*
 
 ---
