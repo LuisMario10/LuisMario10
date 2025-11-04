@@ -1,13 +1,12 @@
 # 👋 Olá, meu nome é Luis Mario!
 
-🎓 Cursando **Análise e Desenvolvimento de Sistemas** atualmente no (4º semestre)  
+## 🎓 Cursando **Análise e Desenvolvimento de Sistemas** atualmente no (4º semestre)  
 
 ---
 
 ## 💻 Atualmente estudando:
--  Testes Unitarios com Jest e Supertest
--  Express.js
--  Validação de Dados com ZOD
+-  React JS
+-  Tailwind CSS
   
 
 ## 🛠️ Stack Principal:
@@ -34,7 +33,7 @@
 - ✅ Estrutura de Dados & Orientação a Objetos
 - ✅ Autenticação com JWT
 - ✅ Puppeteer.js
-- ✅ React
+- ✅ React JS
 - ✅ Python
 - ✅ C/C++
 
