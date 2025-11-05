@@ -65,18 +65,9 @@
 
 ---
 
-### ✅ **TaskNext**
-> Gerenciador de tarefas pessoais
-🔧 *Status: Em desenvolvimento*
-
----
-
 ## 🌐 Redes Sociais
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/luis-mario-dos-santos-8125b0305/)
 
 ---
-
-> "O código limpo é aquele que você entende até mesmo na segunda-feira de manhã." – Robert C. Martin  
-🧠 Sempre buscando evoluir, aprender e construir soluções com propósito!
 
