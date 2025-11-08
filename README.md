@@ -25,17 +25,18 @@
 - ✅ NodeJS
 - ✅ Git & GitHub
 - ✅ Express.js
-- ✅ Tailwind
+- ✅ Tailwind CSS
 - ✅ Axios
 - ✅ Banco de Dados SQL (PostgreSQL, MySQL e SQLite)
 - ✅ Testes Unitarios com Jest e Supertest
-- ✅ Docker
+- ✅ Docker (Basico)
 - ✅ Estrutura de Dados & Orientação a Objetos
 - ✅ Autenticação com JWT
 - ✅ Puppeteer.js
 - ✅ React JS
 - ✅ Python
 - ✅ C/C++
+- ✅ Java
 
 ---
 
