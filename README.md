@@ -11,12 +11,13 @@
 
 ## 🛠️ Stack Principal:
 - NodeJS
+- NestJS
 - TypeScript
-- Express.js
 - PostgreSQL
 - Docker
 - React
 - Tailwind
+- AWS
 
 ---
 
@@ -25,6 +26,7 @@
 - ✅ NodeJS
 - ✅ Git & GitHub
 - ✅ Express.js
+- ✅ NestJS (Basico)
 - ✅ Tailwind CSS
 - ✅ Axios
 - ✅ Banco de Dados SQL (PostgreSQL, MySQL e SQLite)
@@ -34,6 +36,7 @@
 - ✅ Autenticação com JWT
 - ✅ Puppeteer.js
 - ✅ React JS
+- ✅ Next (Basico)
 - ✅ Python
 - ✅ C/C++
 - ✅ Java
