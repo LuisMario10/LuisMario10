@@ -1,17 +1,18 @@
 # 👋 Olá, meu nome é Luis Mario!
 
-## 🎓 Cursando **Análise e Desenvolvimento de Sistemas** atualmente no (4º semestre)  
+## 🎓 Cursando **Análise e Desenvolvimento de Sistemas** atualmente no (5º semestre)  
 
 ---
 
 ## 💻 Atualmente estudando:
 -  React JS
+-  Next JS
 -  Tailwind CSS
   
 
 ## 🛠️ Stack Principal:
 - NodeJS
-- NestJS
+- NestJS 
 - TypeScript
 - PostgreSQL
 - Docker
