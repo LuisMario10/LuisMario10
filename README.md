@@ -1,13 +1,10 @@
 # 👋 Olá, meu nome é Luis Mario!
 
-## 🎓 Cursando **Análise e Desenvolvimento de Sistemas** atualmente no (5º semestre)  
-
----
-
 ## 💻 Atualmente estudando:
 -  React JS
 -  Next JS
 -  Tailwind CSS
+-  ShadCnUI
   
 
 ## 🛠️ Stack Principal:
