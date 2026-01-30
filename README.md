@@ -61,7 +61,7 @@
 
 ---
 
-### 🛒 **Stoq-IN-Casa**
+### 🛒 **LiSTAR**
 > Aplicativo para criar listas de compras otimizando pelo melhor preço 
 🔧 *Status: Em desenvolvimento*
 
