@@ -61,8 +61,8 @@
 
 ---
 
-### 🛒 **LiSTAR**
-> Aplicativo para criar listas de compras otimizando pelo melhor preço 
+### 🕹 **LiSTAR**
+> Aplicativo para gerenciar jogos que estão no seu backlog
 🔧 *Status: Em desenvolvimento*
 
 ---
