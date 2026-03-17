@@ -61,9 +61,10 @@
 
 ---
 
-### 🕹 **LiSTAR**
-> Aplicativo para gerenciar jogos que estão no seu backlog
+### 🛍 **LiSTAR**
+> Aplicativo para criar lista de compras dinamicas 
 🔧 *Status: Em desenvolvimento*
+
 
 ---
 
