@@ -2,10 +2,6 @@
 
 ## 💻 Atualmente estudando:
 -  React JS
--  Next JS
--  Tailwind CSS
--  ShadCnUI
-  
 
 ## 🛠️ Stack Principal:
 - NodeJS
@@ -43,8 +39,9 @@
 
 ## 🚧 Projetos em Destaque
 
-### 🎮 **Reforg Games**
-> MarketPlace de Video Games  
+### 🎮 **GameBackLog**
+> Projeto para gestão de backlog para jogos 
+
 🔧 *Status: Em desenvolvimento*
 
 ---
