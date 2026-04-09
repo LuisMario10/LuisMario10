@@ -3,7 +3,7 @@
 ## 💻 Atualmente estudando:
 -  React JS
 
-## 🛠️ Stack Principal:
+## 🛠️ Stack Principal (FullStack):
 - NodeJS
 - NestJS 
 - TypeScript
