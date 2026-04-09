@@ -39,8 +39,8 @@
 
 ## 🚧 Projetos em Destaque
 
-### 🎮 **GameBackLog**
-> Projeto para gestão de backlog para jogos 
+### 🎮 **KaTaloGane**
+> Feito para capitar reviews continuas durante a experiencia de um jogo
 
 🔧 *Status: Em desenvolvimento*
 
@@ -58,12 +58,9 @@
 
 ---
 
-### 🛍 **LiSTAR**
-> Aplicativo para criar lista de compras dinamicas 
-🔧 *Status: Em desenvolvimento*
-
-
----
+### 💲 **Gestor de Finanças Pessoais**
+> Sistema de gerenciamento de dinheiro individual
+🎓 Projeto acadêmico — Materia de Programação Orientada a Objetos (5º semestre)
 
 ## 🌐 Redes Sociais
 
