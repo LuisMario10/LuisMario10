@@ -2,6 +2,7 @@
 
 ## 💻 Atualmente estudando:
 -  React JS
+-  Tailwind CSS
 
 ## 🛠️ Stack Principal (FullStack):
 - NodeJS
@@ -39,7 +40,7 @@
 
 ## 🚧 Projetos em Destaque
 
-### 🎮 **KaTaloGane**
+### 🎮 **KaTaloGame**
 > Feito para capitar reviews continuas durante a experiencia de um jogo
 
 🔧 *Status: Em desenvolvimento*
