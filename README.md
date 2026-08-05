@@ -1,17 +1,14 @@
 # 👋 Olá, meu nome é Luis Mario!
 
-## 💻 Atualmente estudando:
--  React JS
--  Tailwind CSS
-
 ## 🛠️ Stack Principal (FullStack):
+
 - NodeJS
-- NestJS 
+- Express JS
 - TypeScript
 - PostgreSQL
 - Docker
-- React
-- Tailwind
+- React JS
+- TailwindCSS
 - AWS
 
 ---
@@ -21,17 +18,17 @@
 - ✅ NodeJS
 - ✅ Git & GitHub
 - ✅ Express.js
-- ✅ NestJS (Basico)
+- ✅ NestJS
 - ✅ Tailwind CSS
 - ✅ Axios
 - ✅ Banco de Dados SQL (PostgreSQL, MySQL e SQLite)
 - ✅ Testes Unitarios com Jest e Supertest
-- ✅ Docker (Basico)
+- ✅ Docker
 - ✅ Estrutura de Dados & Orientação a Objetos
 - ✅ Autenticação com JWT
 - ✅ Puppeteer.js
 - ✅ React JS
-- ✅ Next (Basico)
+- ✅ Next JS
 - ✅ Python
 - ✅ C/C++
 - ✅ Java
@@ -48,19 +45,19 @@
 ---
 
 ### 📚 **LibLib**
-> Gerenciador de Bibliotecas  
+> Gerenciador de Bibliotecas para otimizar emprestimos de livros 
 🎓 Projeto acadêmico — Disciplina de Desenvolvimento Aplicações (2º semestre)
 
 ---
 
 ### 🌿 **Projeto de Irrigação Inteligente**
-> Sistema de monitoramento de umidade para plantações  
+> Sistema de monitoramento de umidade do solo para plantações (esp32)
 🎓 Projeto acadêmico — Materia de IoT, Cloud e Industria 4.0 (3º semestre)
 
 ---
 
 ### 💲 **Gestor de Finanças Pessoais**
-> Sistema de gerenciamento de dinheiro individual
+> Sistema de gerenciamento de finanças pessoais
 🎓 Projeto acadêmico — Materia de Programação Orientada a Objetos (5º semestre)
 
 ## 🌐 Redes Sociais
